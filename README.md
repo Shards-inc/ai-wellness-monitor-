@@ -1,4 +1,3 @@
-
 AI Wellness Monitor
 The AI Wellness Monitor is an intelligent system designed to track, analyze, and provide insights into a user's physical and mental well-being. By leveraging machine learning models, the application processes various data points—such as sleep patterns, mood logs, and activity levels—to provide actionable wellness recommendations.
 
