@@ -34,7 +34,6 @@
     "expo-system-ui": "~5.0.6",
     "expo-web-browser": "^15.0.10",
     "lucide-react-native": "^0.475.0",
-    "nativewind": "^4.1.23",
     "react": "19.0.0",
     "react-dom": "19.2.4",
     "react-native": "0.79.1",
@@ -43,7 +42,8 @@
     "react-native-screens": "~4.10.0",
     "react-native-svg": "15.11.2",
     "react-native-web": "^0.20.0",
-    "zustand": "^5.0.2"
+    "zustand": "^5.0.2",
+    "@rork-ai/toolkit-sdk": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
